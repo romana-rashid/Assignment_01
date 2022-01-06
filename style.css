@@ -1,0 +1,90 @@
+body {
+  font-family: "Kanit", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+  margin: 0;
+}
+.section-class {
+  display: flex;
+  margin-bottom: 5%;
+}
+.half-width {
+  width: 50%;
+  margin-top: 100px;
+  padding-left: 10%;
+}
+.half-width img {
+  width: 80%;
+  border-radius: 30px;
+}
+.third-width {
+  width: 40%;
+  padding-left: 10%;
+  margin-top: 5%;
+}
+.third-width img {
+  width: 200%;
+  border-radius: 5%;
+}
+.fourth-width {
+  padding-left: 20%;
+  margin-top: 5%;
+  margin-right: 5%;
+}
+.orange-color {
+  color: orange;
+}
+.purpose {
+  border-left: 5px solid;
+  border-image: linear-gradient(red, red);
+  border-image-slice: 1;
+  padding: 2px;
+}
+.button {
+  text-decoration: none;
+  background-color: rgb(231, 26, 95);
+  color: white;
+  padding: 10px 40px;
+  border-radius: 5%;
+}
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+.section-two {
+  display: flex;
+}
+.second-width {
+  width: 30%;
+  height: 80%;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 30px;
+}
+.second-width img {
+  width: 30%;
+}
+.sky-blue {
+  background-color: rgb(215, 235, 243);
+  margin-left: 150px;
+}
+.pink {
+  background-color: rgb(246, 226, 230);
+}
+.orange {
+  background-color: rgb(245, 224, 186);
+  margin-right: 150px;
+}
+footer {
+  background-color: rgba(20, 6, 6, 0.849);
+  color: white;
+  height: 150px;
+}
+footer p {
+  text-align: center;
+}
+.footer-color {
+  color: salmon;
+}
