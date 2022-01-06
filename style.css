@@ -38,8 +38,8 @@ h1 {
 }
 .purpose {
   border-left: 5px solid;
-  border-color: rgb(231, 26, 95);
-  padding: 2px;
+  border-image: linear-gradient(salmon, salmon);
+  border-image-slice: 1;
 }
 .button {
   text-decoration: none;
